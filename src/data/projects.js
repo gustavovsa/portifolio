@@ -3,14 +3,14 @@ export const projects = [
     id: 1,
     title: 'Saint Cat',
     description: "Site da minha futura empresa de criação de livros, jogos, filmes e músicas.",
-    image: '/assets/saintcat.png',
+    image: 'src/assets/saintcat.png',
     link: 'https://saintcat.vercel.app',
   },
   {
     id: 2,
     title: 'Buscador de Músicas',
     description: 'Um site que permite buscar músicas e ouvir trechos delas utilizando o id do iTunes.',
-    image: '/assets/bmusica.png',
+    image: 'src/assets/bmusica.png',
     link: 'https://buscadormusicas.vercel.app',
   },
 
