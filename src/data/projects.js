@@ -9,7 +9,7 @@ export const projects = [
   {
     id: 2,
     title: 'Buscador de Músicas',
-    description: 'Um site que permite buscar músicas e ouvir trechos delas utilizando o id do iTunes.',
+    description: 'Um site que permite buscar músicas e ouvir trechos delas utilizando a API do iTunes.',
     image: '/bmusica.png',
     link: 'https://buscadormusicas.vercel.app',
   },

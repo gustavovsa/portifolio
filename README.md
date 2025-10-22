@@ -35,12 +35,6 @@ Cada seção foi pensada para refletir meu estilo de trabalho e minha evolução
 
 ---
 
-## Preview
-
-![Screenshot do portfólio](./portifolio.png)
-
----
-
 ## Como Rodar Localmente
 
 ```bash
